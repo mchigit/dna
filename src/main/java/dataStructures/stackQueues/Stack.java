@@ -5,7 +5,6 @@ package dataStructures.stackQueues;
 import java.util.LinkedList;
 
 public class Stack {
-    private int top;
     private int stackSize;
     private LinkedList<Integer> stack;
 

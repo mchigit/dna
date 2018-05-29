@@ -15,6 +15,11 @@ public class StackTest {
     }
 
     @Test
+    public void stackSize() {
+        assertTrue(stack.getSize() == 0);
+    }
+
+    @Test
     public void push() {
         stack.push(0);
         stack.push(1);
