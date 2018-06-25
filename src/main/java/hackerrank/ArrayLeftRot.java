@@ -5,6 +5,14 @@ import java.io.FileWriter;
 import java.io.IOException;
 import java.util.Scanner;
 
+/*
+Basically, this solution uses a pattern discovered.
+The first element if the rotated array is always a[d], therefore we can set the first element there, and then worry about the next.
+The rotated array is then followed by whatever is from a[d + 1] to the end
+Then it is followed by whatever is from a[0] to a[d - 1]
+So we basically construct the rotated array by looping through 2 parts of the original array
+ */
+
 public class ArrayLeftRot {
 
     // Complete the rotLeft function below.
