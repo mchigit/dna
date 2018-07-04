@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="9531ebdf-7f00-42ec-a5f8-c2094d9acb1a" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/algorithms/Sort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algorithms/Sort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/hackerrank/Fibonacci.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hackerrank/Fibonacci.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -21,7 +19,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/hackerrank/Comparator.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="323">
-              <caret line="17" column="35" selection-start-line="17" selection-start-column="35" selection-end-line="17" selection-end-column="35" />
+              <caret line="18" column="35" selection-start-line="18" selection-start-column="35" selection-end-line="18" selection-end-column="35" />
             </state>
           </provider>
         </entry>
@@ -29,8 +27,8 @@
       <file leaf-file-name="IceCream.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/hackerrank/IceCream.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="40" selection-start-line="40" selection-end-line="40" />
+            <state relative-caret-position="646">
+              <caret line="35" selection-start-line="35" selection-end-line="35" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -41,8 +39,8 @@
       <file leaf-file-name="Sort.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/algorithms/Sort.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="24" column="57" lean-forward="true" selection-start-line="24" selection-start-column="57" selection-end-line="24" selection-end-column="57" />
+            <state relative-caret-position="418">
+              <caret line="24" column="57" selection-start-line="24" selection-start-column="57" selection-end-line="24" selection-end-column="57" />
               <folding>
                 <element signature="e#462#463#0" expanded="true" />
                 <element signature="e#515#516#0" expanded="true" />
@@ -56,8 +54,17 @@
       <file leaf-file-name="CountingInversions.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/hackerrank/CountingInversions.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="703">
-              <caret line="61" column="13" lean-forward="true" selection-start-line="61" selection-start-column="13" selection-end-line="61" selection-end-column="13" />
+            <state relative-caret-position="1140">
+              <caret line="60" column="13" selection-start-line="60" selection-start-column="13" selection-end-line="60" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Primality.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/hackerrank/Primality.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="316">
+              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -65,11 +72,46 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Primality.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/hackerrank/Primality.java">
+      <file leaf-file-name="RecursiveStaircase.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/hackerrank/RecursiveStaircase.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="703">
-              <caret line="41" column="61" lean-forward="true" selection-start-line="41" selection-start-column="61" selection-end-line="41" selection-end-column="61" />
+            <state relative-caret-position="161">
+              <caret line="38" column="28" lean-forward="true" selection-start-line="38" selection-start-column="28" selection-end-line="38" selection-end-column="28" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#368#369#0" expanded="true" />
+                <element signature="e#423#424#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Graph.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/dataStructures/graph/Graph.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="312">
+              <caret line="62" column="13" lean-forward="true" selection-start-line="62" selection-start-column="13" selection-end-line="62" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#176#191#0" expanded="true" />
+                <element signature="e#301#307#0" expanded="true" />
+                <element signature="e#340#341#0" expanded="true" />
+                <element signature="e#373#374#0" expanded="true" />
+                <element signature="e#415#416#0" expanded="true" />
+                <element signature="e#456#457#0" expanded="true" />
+                <element signature="e#992#1001#0" expanded="true" />
+                <element signature="e#1580#1586#0" expanded="true" />
+                <element signature="e#1580#1589#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ConnectedCell.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/hackerrank/ConnectedCell.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="365">
+              <caret line="60" lean-forward="true" selection-start-line="60" selection-end-line="60" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -125,6 +167,10 @@
         <option value="$PROJECT_DIR$/src/main/java/algorithms/Sort.java" />
         <option value="$PROJECT_DIR$/src/main/java/hackerrank/CountingInversions.java" />
         <option value="$PROJECT_DIR$/src/main/java/hackerrank/Primality.java" />
+        <option value="$PROJECT_DIR$/src/main/java/hackerrank/Solution.java" />
+        <option value="$PROJECT_DIR$/src/main/java/hackerrank/RecursiveStaircase.java" />
+        <option value="$PROJECT_DIR$/src/main/java/dataStructures/graph/Graph.java" />
+        <option value="$PROJECT_DIR$/src/main/java/hackerrank/ConnectedCell.java" />
       </list>
     </option>
   </component>
@@ -157,8 +203,9 @@
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-8" />
-    <option name="width" value="977" />
-    <option name="height" value="1038" />
+    <option name="y" value="-8" />
+    <option name="width" value="166" />
+    <option name="height" value="47" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -168,6 +215,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -192,22 +242,6 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="dna" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dna" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="algorithms" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="dna" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dna" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="hackerrank" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="dna" type="b2602c69:ProjectViewProjectNode" />
@@ -261,9 +295,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
-      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -276,7 +307,7 @@
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Java" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
@@ -300,12 +331,23 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.IceCream">
+  <component name="RunManager" selected="Application.RecursiveStaircase">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
     </configuration>
     <configuration name="IceCream" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="hackerrank.IceCream" />
+      <module name="dna" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hackerrank.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="RecursiveStaircase" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hackerrank.RecursiveStaircase" />
       <module name="dna" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -343,29 +385,6 @@
       <option name="MAIN_CLASS_NAME" value="dataStructures.hashTable.HashTableTest" />
       <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
-    </configuration>
-    <configuration name="HashTableTest.get" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="dna" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="dataStructures.hashTable.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="dataStructures.hashTable" />
-      <option name="MAIN_CLASS_NAME" value="dataStructures.hashTable.HashTableTest" />
-      <option name="METHOD_NAME" value="get" />
-      <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
@@ -437,19 +456,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="JUnit.HashTableTest.get" />
       <item itemvalue="JUnit.HashTableTest.getInvalidElement" />
       <item itemvalue="JUnit.HashTableTest" />
       <item itemvalue="Application.TriesContact" />
       <item itemvalue="Application.IceCream" />
+      <item itemvalue="Application.RecursiveStaircase" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RecursiveStaircase" />
         <item itemvalue="Application.IceCream" />
         <item itemvalue="Application.TriesContact" />
         <item itemvalue="JUnit.HashTableTest" />
         <item itemvalue="JUnit.HashTableTest.getInvalidElement" />
-        <item itemvalue="JUnit.HashTableTest.get" />
       </list>
     </recent_temporary>
   </component>
@@ -483,7 +502,8 @@
       <workItem from="1529874683230" duration="8834000" />
       <workItem from="1530405654403" duration="1845000" />
       <workItem from="1530448346934" duration="7964000" />
-      <workItem from="1530567463945" duration="6417000" />
+      <workItem from="1530567463945" duration="6474000" />
+      <workItem from="1530582163897" duration="11778000" />
     </task>
     <task id="LOCAL-00001" summary="First commit: singly linked list implementation">
       <created>1527216965192</created>
@@ -534,7 +554,14 @@
       <option name="project" value="LOCAL" />
       <updated>1530408200975</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Update">
+      <created>1530577604704</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1530577604704</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -570,7 +597,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="46950000" />
+    <option name="totallyTimeSpent" value="58785000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -578,6 +605,7 @@
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" order="8" weight="0.3297414" />
       <window_info anchor="right" id="Palette&#9;" order="9" />
       <window_info id="Image Layers" order="7" />
       <window_info anchor="right" id="Capture Analysis" order="6" />
@@ -585,11 +613,11 @@
       <window_info anchor="right" id="Maven Projects" order="4" weight="0.2400835" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="11" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32551724" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32518598" />
       <window_info anchor="bottom" id="Terminal" order="10" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="3" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17083333" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13645834" />
       <window_info anchor="right" id="Database" order="5" />
       <window_info id="Learn" order="5" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -598,15 +626,14 @@
       <window_info anchor="right" id="Theme Preview" order="7" />
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3986207" />
-      <window_info anchor="bottom" id="Messages" order="8" weight="0.3297414" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="right" id="CDI" order="8" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Java Enterprise" order="9" />
-      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -623,7 +650,8 @@
     <MESSAGE value="Add hackerrank solutions for CTCI" />
     <MESSAGE value="Finished data structure section of Hackerrank CTCI" />
     <MESSAGE value="Bubble sort implementation and fibonacci" />
-    <option name="LAST_COMMIT_MESSAGE" value="Bubble sort implementation and fibonacci" />
+    <MESSAGE value="Update" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
@@ -641,30 +669,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/dna.iml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/dataStructures/linkedList/Node.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/dataStructures/linkedList/LinkedList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="988">
-          <caret line="58" selection-start-line="58" selection-end-line="58" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/dataStructures/linkedList/LinkedListTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="741">
-          <caret line="46" column="5" selection-start-line="46" selection-start-column="5" selection-end-line="46" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/dataStructures/stackQueues/Stack.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="114">
@@ -950,14 +954,14 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/hackerrank/Comparator.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
-          <caret line="17" column="35" selection-start-line="17" selection-start-column="35" selection-end-line="17" selection-end-column="35" />
+          <caret line="18" column="35" selection-start-line="18" selection-start-column="35" selection-end-line="18" selection-end-column="35" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/hackerrank/IceCream.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="40" selection-start-line="40" selection-end-line="40" />
+        <state relative-caret-position="646">
+          <caret line="35" selection-start-line="35" selection-end-line="35" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -966,8 +970,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/algorithms/Sort.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="24" column="57" lean-forward="true" selection-start-line="24" selection-start-column="57" selection-end-line="24" selection-end-column="57" />
+        <state relative-caret-position="418">
+          <caret line="24" column="57" selection-start-line="24" selection-start-column="57" selection-end-line="24" selection-end-column="57" />
           <folding>
             <element signature="e#462#463#0" expanded="true" />
             <element signature="e#515#516#0" expanded="true" />
@@ -979,18 +983,79 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/hackerrank/CountingInversions.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="703">
-          <caret line="61" column="13" lean-forward="true" selection-start-line="61" selection-start-column="13" selection-end-line="61" selection-end-column="13" />
+        <state relative-caret-position="1140">
+          <caret line="60" column="13" selection-start-line="60" selection-start-column="13" selection-end-line="60" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/hackerrank/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="610">
+          <caret line="96" column="27" lean-forward="true" selection-start-line="96" selection-start-column="27" selection-end-line="96" selection-end-column="27" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#373#374#0" expanded="true" />
+            <element signature="e#404#405#0" expanded="true" />
+            <element signature="e#452#453#0" expanded="true" />
+            <element signature="e#492#493#0" expanded="true" />
+            <element signature="e#527#528#0" expanded="true" />
+            <element signature="e#558#559#0" expanded="true" />
+            <element signature="e#606#607#0" expanded="true" />
+            <element signature="e#646#647#0" expanded="true" />
+            <element signature="e#677#678#0" expanded="true" />
+            <element signature="e#704#705#0" expanded="true" />
+            <element signature="e#744#745#0" expanded="true" />
+            <element signature="e#776#777#0" expanded="true" />
+            <element signature="method#updatePriceForSupplier#0;class#Solution#0" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/hackerrank/Primality.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="703">
-          <caret line="41" column="61" lean-forward="true" selection-start-line="41" selection-start-column="61" selection-end-line="41" selection-end-column="61" />
+        <state relative-caret-position="316">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/hackerrank/RecursiveStaircase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="38" column="28" lean-forward="true" selection-start-line="38" selection-start-column="28" selection-end-line="38" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#368#369#0" expanded="true" />
+            <element signature="e#423#424#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/dataStructures/graph/Graph.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="62" column="13" lean-forward="true" selection-start-line="62" selection-start-column="13" selection-end-line="62" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#176#191#0" expanded="true" />
+            <element signature="e#301#307#0" expanded="true" />
+            <element signature="e#340#341#0" expanded="true" />
+            <element signature="e#373#374#0" expanded="true" />
+            <element signature="e#415#416#0" expanded="true" />
+            <element signature="e#456#457#0" expanded="true" />
+            <element signature="e#992#1001#0" expanded="true" />
+            <element signature="e#1580#1586#0" expanded="true" />
+            <element signature="e#1580#1589#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/hackerrank/ConnectedCell.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="365">
+          <caret line="60" lean-forward="true" selection-start-line="60" selection-end-line="60" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
