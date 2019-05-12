@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9531ebdf-7f00-42ec-a5f8-c2094d9acb1a" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/algorithms/QuickSort.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dna.iml" beforeDir="false" afterPath="$PROJECT_DIR$/dna.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/algorithms/Sort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dailyCodingProblems/Day1.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -19,49 +22,35 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/dataStructures/linkedList/LinkedList.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/algorithms/BubbleSort.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1159">
-              <caret line="67" column="66" selection-start-line="67" selection-start-column="66" selection-end-line="67" selection-end-column="66" />
+            <state relative-caret-position="285">
+              <caret line="15" column="21" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/SellStock.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/algorithms/QuickSort.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="11" column="44" selection-start-line="11" selection-start-column="44" selection-end-line="11" selection-end-column="44" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/dailyCodingProblems/Day1.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="27" column="50" lean-forward="true" selection-start-line="27" selection-start-column="50" selection-end-line="27" selection-end-column="50" />
+            <state relative-caret-position="266">
+              <caret line="14" column="21" lean-forward="true" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
               <folding>
-                <element signature="e#225#243#0" expanded="true" />
+                <element signature="e#90#91#0" expanded="true" />
+                <element signature="e#143#144#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/hackerrank/ArrayLeftRot.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/algorithms/SortTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="18" column="42" selection-start-line="18" selection-start-column="42" selection-end-line="18" selection-end-column="42" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/dataStructures/linkedList/Node.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
-              <caret line="26" selection-start-line="26" selection-end-line="26" />
+            <state relative-caret-position="286">
+              <caret line="20" column="41" lean-forward="true" selection-start-line="20" selection-start-column="41" selection-end-line="20" selection-end-column="41" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -86,7 +75,6 @@
         <option value="$PROJECT_DIR$/src/main/java/dataStructures/linkedList/Node.java" />
         <option value="$PROJECT_DIR$/src/main/java/dataStructures/linkedList/LinkedList.java" />
         <option value="$PROJECT_DIR$/.gitignore" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/src/test/java/dataStructures/linkedList/LinkedListTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/dataStructures/stackQueues/Stack.java" />
         <option value="$PROJECT_DIR$/src/test/java/dataStructures/stackQueues/StackTest.java" />
@@ -95,7 +83,6 @@
         <option value="$PROJECT_DIR$/src/main/java/dataStructures/hashTable/hashTableData.java" />
         <option value="$PROJECT_DIR$/src/main/java/dataStructures/hashTable/HashTableData.java" />
         <option value="$PROJECT_DIR$/src/main/java/dataStructures/hashTable/HashTable.java" />
-        <option value="$PROJECT_DIR$/src/test/java/dataStructures/hashTable/HashTableTest.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/hackerrank/RunningMedian.java" />
         <option value="$PROJECT_DIR$/src/main/java/hackerrank/MakingAnagrams.java" />
@@ -111,7 +98,6 @@
         <option value="$PROJECT_DIR$/src/main/java/hackerrank/Fibonacci.java" />
         <option value="$PROJECT_DIR$/src/main/java/hackerrank/Comparator.java" />
         <option value="$PROJECT_DIR$/src/main/java/hackerrank/IceCream.java" />
-        <option value="$PROJECT_DIR$/src/main/java/algorithms/Sort.java" />
         <option value="$PROJECT_DIR$/src/main/java/hackerrank/CountingInversions.java" />
         <option value="$PROJECT_DIR$/src/main/java/hackerrank/Primality.java" />
         <option value="$PROJECT_DIR$/src/main/java/hackerrank/Solution.java" />
@@ -123,6 +109,18 @@
         <option value="$PROJECT_DIR$/src/main/java/leetcode/SellStock.java" />
         <option value="$PROJECT_DIR$/src/main/java/leetcode/RotateArray.java" />
         <option value="$PROJECT_DIR$/src/main/java/dailyCodingProblems/Day1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/dataStructures/linkedList/DoublyLinkedList.java" />
+        <option value="$PROJECT_DIR$/src/main/java/algorithms/MergeSort.java" />
+        <option value="$PROJECT_DIR$/src/test/java/dataStructures/hashTable/HashTableTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Sort/SortTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/algorithms/SelectionSortTest.java" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/src/main/java/algorithms/Util.java" />
+        <option value="$PROJECT_DIR$/src/main/java/algorithms/SelectionSort.java" />
+        <option value="$PROJECT_DIR$/src/main/java/algorithms/Sort.java" />
+        <option value="$PROJECT_DIR$/src/main/java/algorithms/QuickSort.java" />
+        <option value="$PROJECT_DIR$/src/main/java/algorithms/BubbleSort.java" />
+        <option value="$PROJECT_DIR$/src/test/java/algorithms/SortTest.java" />
       </list>
     </option>
   </component>
@@ -145,10 +143,10 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1466" />
-    <option name="y" value="302" />
-    <option name="width" value="209" />
-    <option name="height" value="60" />
+    <option name="x" value="1224" />
+    <option name="y" value="54" />
+    <option name="width" value="167" />
+    <option name="height" value="48" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -158,6 +156,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -189,14 +189,50 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="dailyCodingProblems" type="462c0819:PsiDirectoryNode" />
+              <item name="algorithms" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dna" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dna" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="dataStructures" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dna" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dna" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="dataStructures" type="462c0819:PsiDirectoryNode" />
+              <item name="graph" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dna" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dna" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dna" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dna" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dna" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dna" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="algorithms" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -218,6 +254,9 @@
       <recent name="dataStructures.stackQueues" />
       <recent name="dataStructures.linkedList" />
     </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="algorithms" />
+    </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
     </key>
@@ -234,7 +273,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Day1">
+  <component name="RunManager" selected="JUnit.SortTest">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -248,34 +287,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="dailyCodingProblems.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="IceCream" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="hackerrank.IceCream" />
-      <module name="dna" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="hackerrank.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="RecursiveStaircase" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="hackerrank.RecursiveStaircase" />
-      <module name="dna" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="hackerrank.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -297,22 +308,58 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TriesContact" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="hackerrank.TriesContact" />
-      <module name="dna" />
+    <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="hackerrank.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="Application" factoryName="Application">
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    <configuration name="SortTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="dna" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="algorithms.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="algorithms" />
+      <option name="MAIN_CLASS_NAME" value="algorithms.SortTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SortTest.QuickSort" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="dna" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="algorithms.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="algorithms" />
+      <option name="MAIN_CLASS_NAME" value="algorithms.SortTest" />
+      <option name="METHOD_NAME" value="QuickSort" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SortTest.SelectionSort" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="dna" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="algorithms.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="algorithms" />
+      <option name="MAIN_CLASS_NAME" value="algorithms.SortTest" />
+      <option name="METHOD_NAME" value="SelectionSort" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -334,19 +381,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.TriesContact" />
-      <item itemvalue="Application.IceCream" />
-      <item itemvalue="Application.RecursiveStaircase" />
       <item itemvalue="Application.SellStock" />
       <item itemvalue="Application.Day1" />
+      <item itemvalue="JUnit.SelectionSortTest.SelectionSort" />
+      <item itemvalue="JUnit.SortTest.QuickSort" />
+      <item itemvalue="JUnit.SortTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.SortTest" />
+        <item itemvalue="JUnit.SortTest.QuickSort" />
+        <item itemvalue="JUnit.SelectionSortTest.SelectionSort" />
         <item itemvalue="Application.Day1" />
         <item itemvalue="Application.SellStock" />
-        <item itemvalue="Application.RecursiveStaircase" />
-        <item itemvalue="Application.IceCream" />
-        <item itemvalue="Application.TriesContact" />
       </list>
     </recent_temporary>
   </component>
@@ -387,6 +434,11 @@
       <workItem from="1531343228592" duration="19000" />
       <workItem from="1555520466983" duration="213000" />
       <workItem from="1555520896863" duration="623000" />
+      <workItem from="1555883166216" duration="598000" />
+      <workItem from="1557092373349" duration="601000" />
+      <workItem from="1557341500759" duration="1817000" />
+      <workItem from="1557429181982" duration="9576000" />
+      <workItem from="1557690925068" duration="1026000" />
     </task>
     <task id="LOCAL-00001" summary="First commit: singly linked list implementation">
       <created>1527216965192</created>
@@ -462,18 +514,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="HashTableTest - 2018.06.01 at 11h 11m 24s.xml">
-      <configuration name="HashTableTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="HashTableTest_containsKey - 2018.06.01 at 11h 09m 06s.xml">
-      <configuration name="HashTableTest.containsKey" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="HashTableTest_get - 2018.06.01 at 11h 10m 23s.xml">
-      <configuration name="HashTableTest.get" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="HashTableTest_getInvalidElement - 2018.06.01 at 11h 11m 15s.xml">
-      <configuration name="HashTableTest.getInvalidElement" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="HashTableTest_put - 2018.06.01 at 11h 08m 31s.xml">
       <configuration name="HashTableTest.put" configurationId="JUnit" />
     </history-entry>
@@ -492,15 +532,27 @@
     <history-entry file="StackTest_stackSize - 2018.05.29 at 10h 19m 08s.xml">
       <configuration name="StackTest.stackSize" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="SelectionSortTest_SelectionSort - 2019.05.09 at 17h 56m 35s.xml">
+      <configuration name="SelectionSortTest.SelectionSort" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SelectionSortTest_SelectionSort - 2019.05.09 at 17h 57m 43s.xml">
+      <configuration name="SelectionSortTest.SelectionSort" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SortTest_QuickSort - 2019.05.12 at 18h 07m 41s.xml">
+      <configuration name="SortTest.QuickSort" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SortTest - 2019.05.12 at 18h 10m 33s.xml">
+      <configuration name="SortTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="66914000" />
+    <option name="totallyTimeSpent" value="80532000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17377399" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18176973" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="3" />
@@ -510,7 +562,7 @@
       <window_info id="Image Layers" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.42145178" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.42145178" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3986207" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -562,16 +614,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="76">
-            <caret line="4" column="54" selection-start-line="4" selection-start-column="54" selection-end-line="4" selection-end-column="54" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/main.java" />
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
@@ -604,27 +646,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/dataStructures/stackQueues/Stack.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="551">
-          <caret line="33" selection-start-line="33" selection-end-line="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/dataStructures/hashTable/HashTable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="34" selection-start-line="7" selection-start-column="34" selection-end-line="7" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/dataStructures/hashTable/HashTableData.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" column="23" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/dataStructures/stackQueues/StackTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
@@ -636,13 +657,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
           <caret line="15" column="20" lean-forward="true" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/dataStructures/hashTable/HashTableTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="26" column="29" selection-start-line="26" selection-start-column="29" selection-end-line="26" selection-end-column="29" />
         </state>
       </provider>
     </entry>
@@ -776,30 +790,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/dataStructures/graph/Graph.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="321">
-          <caret line="67" lean-forward="true" selection-start-line="66" selection-start-column="13" selection-end-line="67" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#447#453#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/algorithms/Sort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="12" column="17" lean-forward="true" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
-          <folding>
-            <element signature="e#462#463#0" expanded="true" />
-            <element signature="e#515#516#0" expanded="true" />
-            <element signature="e#864#865#0" expanded="true" />
-            <element signature="e#940#941#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/hackerrank/IceCream.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="381">
@@ -810,10 +800,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/dataStructures/linkedList/LinkedList.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/dailyCodingProblems/Day1.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/SellStock.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1159">
-          <caret line="67" column="66" selection-start-line="67" selection-start-column="66" selection-end-line="67" selection-end-column="66" />
+        <state relative-caret-position="323">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
         </state>
       </provider>
     </entry>
@@ -824,26 +815,117 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/dataStructures/linkedList/DoublyLinkedList.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/dataStructures/hashTable/HashTableData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="23" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/dataStructures/hashTable/HashTableTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/dataStructures/stackQueues/Stack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="18" column="5" lean-forward="true" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/dataStructures/linkedList/Node.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="26" selection-start-line="26" selection-end-line="26" />
+        <state relative-caret-position="152">
+          <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/SellStock.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" column="44" selection-start-line="11" selection-start-column="44" selection-end-line="11" selection-end-column="44" />
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="76">
+            <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/dailyCodingProblems/Day1.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/algorithms/SelectionSort.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="27" column="50" lean-forward="true" selection-start-line="27" selection-start-column="50" selection-end-line="27" selection-end-column="50" />
+        <state relative-caret-position="266">
+          <caret line="14" column="12" lean-forward="true" selection-start-line="14" selection-start-column="12" selection-end-line="14" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/algorithms/MergeSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="66" lean-forward="true" selection-start-line="10" selection-start-column="66" selection-end-line="10" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/algorithms/Util.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/dataStructures/hashTable/HashTable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="27" lean-forward="true" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/dataStructures/linkedList/LinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="589">
+          <caret line="37" column="5" selection-start-line="37" selection-start-column="5" selection-end-line="37" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/dataStructures/graph/Graph.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="20" column="9" lean-forward="true" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
           <folding>
-            <element signature="e#225#243#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/algorithms/BubbleSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="21" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/algorithms/QuickSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="21" lean-forward="true" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
+          <folding>
+            <element signature="e#90#91#0" expanded="true" />
+            <element signature="e#143#144#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/algorithms/SortTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="20" column="41" lean-forward="true" selection-start-line="20" selection-start-column="41" selection-end-line="20" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
